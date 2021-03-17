@@ -1,7 +1,7 @@
 # mvtraj
 Shape-based Clustering of Multivariate Longitudinal Data
 
-We extend shape-based clustering for longitudinal data (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150738) to the novel application of microbiome taxa composition with zero inflation. We find interesting longitudinal profiles for some clusters of subjects.
+We extend shape-based clustering for longitudinal data to the novel application of microbiome taxa composition with zero inflation. We find interesting longitudinal profiles for some clusters of subjects.
 
 -----
 
