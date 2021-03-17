@@ -13,7 +13,7 @@ Most of the analysis is done in Python; some summary and EDA is done in R. Below
   
   xxxx.ipynb : a simulation study
   
-  xxxx.R : some bootstrapping to study significance
+  bootstrap_final_clusters.R : some bootstrapping to study significance
   
 -----
   
