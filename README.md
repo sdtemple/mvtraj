@@ -7,6 +7,8 @@ We extend shape-based clustering for longitudinal data to the novel application 
 
 Most of the analysis is done in Python; some summary and EDA is done in R. Below is a description of some files:
 
+  mvtraj-group-paper.pdf : our class paper
+  
   mvtrajectories.py : our methods
   
   mb-trajectories.ipynb : k-means
